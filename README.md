@@ -36,4 +36,4 @@ Este proyecto demuestra la aplicación de buenas prácticas modernas en el desar
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/GrooveVault.git](https://github.com/tu-usuario/GrooveVault.git)
+   git clone [https://github.com/tu-usuario/GrooveVault.git](https://github.com/tu-usuario/GrooveVault.git)](https://github.com/mevi-and-my-monkey/GrooveVault.git
